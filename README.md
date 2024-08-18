@@ -4,13 +4,3 @@ These data can be used for the study of visual tasks in the field of pigs.
 INPC_data
 链接: https://pan.baidu.com/s/15I2OL-nH8Lw3wUG1429WRw 提取码: xh84
 
-Our bib is as follows:
-
-@article{wang2024instance,
-  title={Instance segmentation of pigs in infrared images based on INPC model},
-  author={Wang, Ge and Ma, Yong and Huang, Jun and Fan, Fan and Li, Hao and Li, Zipeng},
-  journal={Infrared Physics \& Technology},
-  pages={105491},
-  year={2024},
-  publisher={Elsevier}
-}
